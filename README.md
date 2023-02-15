@@ -7,7 +7,7 @@ Utilizamos :
     
   - ASP.NET por el lado del BackEnd
     - Programacion con arquitectura N capas
-    -Entity framework Core
+    - Entity framework Core
     
   Base de datos: Microsoft SQL Server  
   
