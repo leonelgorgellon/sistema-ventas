@@ -1,0 +1,14 @@
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\bin\Debug\net6.0\SistemaVenta.Model.deps.json
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\bin\Debug\net6.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\bin\Debug\net6.0\SistemaVenta.Model.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\bin\Debug\net6.0\SistemaVenta.Model.pdb
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\refint\SistemaVenta.Model.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.pdb
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\ref\SistemaVenta.Model.dll

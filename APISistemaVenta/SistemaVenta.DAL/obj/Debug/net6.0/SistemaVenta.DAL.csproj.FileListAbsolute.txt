@@ -1,0 +1,15 @@
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.deps.json
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\refint\SistemaVenta.DAL.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Model.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Model.pdb
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net6.0\SistemaVenta.DTO.deps.json
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net6.0\SistemaVenta.DTO.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net6.0\SistemaVenta.DTO.pdb
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\refint\SistemaVenta.DTO.dll
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.pdb
+C:\Users\Leo\Desktop\ISTEA\Proyectos\angular-aspNet-ventas\Sistema de Ventas\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\ref\SistemaVenta.DTO.dll
